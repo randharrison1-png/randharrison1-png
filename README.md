@@ -37,10 +37,61 @@ The system focuses on:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=randharrison1-png&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=randharrison1-png&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png"
+      width="90"
+      alt="Starstruck"
+      title="Starstruck"
+    />
+  </a>
 
----
-[![](https://komarev.com/ghpvc/?username=randharrison1-png&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Pull-Shark/PNG/PullShark.png"
+      width="90"
+      alt="Pull Shark"
+      title="Pull Shark"
+    />
+  </a>
+
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png"
+      width="90"
+      alt="Galaxy Brain"
+      title="Galaxy Brain"
+    />
+  </a>
+
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png"
+      width="90"
+      alt="Pair Extraordinaire"
+      title="Pair Extraordinaire"
+    />
+  </a>
+
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png"
+      width="90"
+      alt="Quickdraw"
+      title="Quickdraw"
+    />
+  </a>
+
+  <a href="https://github.com/randharrison1-png?tab=achievements">
+    <img
+      src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/YOLO/PNG/YOLO_Badge.png"
+      width="90"
+      alt="YOLO"
+      title="YOLO"
+    />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
