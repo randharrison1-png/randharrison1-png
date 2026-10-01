@@ -43,9 +43,9 @@ The system focuses on:
 
 ## 📈 GitHub Stats
 
-![Rand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+![Rand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randharrison1-png&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randharrison1-png&layout=compact)
 
 ---
 
