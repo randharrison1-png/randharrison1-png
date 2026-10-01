@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Rand Harrison
-
-### Student • Developer • Designer • Finance & Tech Enthusiast
+### Designer • Finance & Tech Enthusiast
 
 I enjoy building automated trading systems and productivity tools.
 
