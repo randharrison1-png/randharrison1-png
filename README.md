@@ -4,9 +4,9 @@ I enjoy building automated trading systems and productivity tools.
 
 ---
 
-## 🛠️ What I'm Working On
+## What I'm Working On
 
-### 📈 Automated Trading System
+### Automated Trading System
 A Python-based trading platform designed to research and analyze short-term market opportunities.
 
 **Technologies:**
@@ -25,7 +25,7 @@ The system focuses on:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -41,7 +41,7 @@ The system focuses on:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Rand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randharrison1-png&show_icons=true)
 
