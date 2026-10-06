@@ -1,4 +1,4 @@
-### Designer • Finance & Tech Enthusiast
+### I love fintech
 
 I enjoy building automated trading systems and productivity tools.
 
